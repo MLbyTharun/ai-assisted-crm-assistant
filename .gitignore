@@ -4,3 +4,5 @@ __pycache__/
 venv/
 .env
 *.db
+src/database/db_manager_exp.py
+practice.py
